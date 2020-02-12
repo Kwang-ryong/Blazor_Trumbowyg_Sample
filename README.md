@@ -1,4 +1,4 @@
-# Blazor에 Trumbowyg 사용하기
+# Blazor에 Trumbowyg 적용 예제
 
 > 프로젝트 환경
 - Windows10
@@ -8,7 +8,7 @@
 
 > 설명
 - Blazor 내의 Razor 페이지를 활용하여 무료 텍스트 에디터인 Trumbowyg를 사용하는 예제입니다. 기타 JavaScript를 활용하는 기능도 수정해서 사용할 수 있을 것 같습니다.
-- 사용방법은 아래 링크에 있습니다.
+- 적용방법은 아래 링크에 있습니다.
 - [Blazor에 Text Editor 넣어보기(Trumbowyg)](https://www.notion.so/Blazor-Text-Editor-Trumbowyg-984660e9ec8943da84c7bb4270dcf8ba)
 
 >기타 참고링크
