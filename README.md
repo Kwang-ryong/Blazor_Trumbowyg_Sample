@@ -1,7 +1,6 @@
 # Blazor에 Trumbowyg 적용 예제
 
 > 프로젝트 환경
-- Windows10
 - Visual Strudio 2019
 - .NET Core 3.1
 - Blazor
